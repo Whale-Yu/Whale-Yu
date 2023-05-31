@@ -32,8 +32,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count
 
 #### 👷Project experience
 
-- Motion-sensing interaction - Hand pose estimation based on mediapipe and LSTM（[github]() [demo](https://www.bilibili.com/video/BV1CN411A7yF/?spm_id_from=333.999.0.0)）
-- 
+- Fall detection for the elderly based on yolov5s and deploy to jeston nano2([github](),[demo]())
+- Garbage classification system based on convolutional neural network([github](),[demo]())
+- Motion-sensing interaction - Hand pose estimation based on mediapipe and LSTM（[github](),[demo](https://www.bilibili.com/video/BV1CN411A7yF/?spm_id_from=333.999.0.0)）
+- Action recognition based on meadipipe and machine-learning([github](),[demo]())
+- ... wait, I won't give you an example.
 
 
 #### 📞Contact information
