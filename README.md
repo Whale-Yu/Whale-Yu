@@ -27,7 +27,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count
 
 #### 🌱 Things I am currently working on:
 - Junior college graduate, promoted to undergraduate success
-- Keep learning the AI neighborhood knowledge
+- Keep learning the AI knowledge
 - Do a good job in graduation design and thesis
 
 
