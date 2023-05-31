@@ -14,11 +14,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count
 
 ✈ CrabBoss's GitHub stats：
 
-![CrabBoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrabBoss-lab&show_icons=true&theme=tokyonight)
+![CrabBoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrabBoss-lab&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrabBoss-lab&layout=compact&theme=tokyonight)
+
 
 
 
 
 💻 Programming languages and tools:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrabBoss-lab&layout=compact&theme=tokyonight)
