@@ -10,15 +10,25 @@ Welcome to my Github page! I am Mr. Crab. Currently studying at Jinhua Polytechn
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count.svg) visitor. Thanks you!
 
-#### ✍My experience
+#### 🐟Self-introduction
 
-- 2021-present [Jinhua Polytechnic](https://www.jhc.cn/main.htm) [College of Information Engineering](https://info.jhc.cn/main.htm) Application of artificial intelligence technology
+- At present, I am a sophomore junior college student in Jinhua Vocational and Technical College, majoring in the application of artificial intelligence technology. I joined the college's software development studio in the direction of artificial intelligence. I learned the basics of artificial intelligence independently in my freshman year, and participated in the studio in my sophomore year. Projects, participation in various subject competitions, the main goal at this stage is to successfully upgrade to further study.
+
+#### ✍Personal experience
+
+- 2021-present：
+  - School: [Jinhua Polytechnic](https://www.jhc.cn/main.htm) [College of Information Engineering](https://info.jhc.cn/main.htm) 
+  - Major: application of artificial intelligence technology 
+  - Studio：software development studio@AI direction
+
+- ...
 
 
 
 #### 👷Project experience
 
 - construction...
+- 
 
 
 #### 📞How to Contact me
