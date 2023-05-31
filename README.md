@@ -21,8 +21,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count
 - I learned the basics of artificial intelligence independently in my freshman year.[click me 📕](https://docs.qq.com/sheet/DSkRobnVTUGFXYnlq?tab=BB08J2)
 - I participated in the project development of the studio and participated in various discipline competitions in the sophomore year.
 - And working for teachers for free. I'm free labor.😢
-- Now,The most important goal is to successfully upgrade to the university for further study.
-
+- Now,The most important goal is to successfully promot to undergraduate success
 
 #### 🌱 Things I am currently working on:
 - Junior college graduate, promoted to undergraduate success
