@@ -12,17 +12,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count
 
 #### ✍My experience
 
-construction...
--
--
--
+- construction...
+
 
 #### 👷Project experience
 
-construction...
--
--
--
+- construction...
+
 
 #### 🐱Github summary
 <!-- 参考程序员鱼皮的github中的样式 -->
