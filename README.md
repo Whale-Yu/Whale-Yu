@@ -22,9 +22,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count
 #### ✍Personal experience
 
 - 2021-present：
-  - School: [Jinhua Polytechnic](https://www.jhc.cn/main.htm) [College of Information Engineering](https://info.jhc.cn/main.htm) 
-  - Major: application of artificial intelligence technology 
-  - Studio：software development studio@AI direction
+  - 🏫School: [Jinhua Polytechnic](https://www.jhc.cn/main.htm) [College of Information Engineering](https://info.jhc.cn/main.htm) 
+  - 🧢Major: application of artificial intelligence technology 
+  - 🏠Studio：software development studio@AI direction
 
 - ...
 
@@ -32,16 +32,16 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count
 
 #### 👷Project experience
 
-- construction...
+- Motion-sensing interaction - Hand pose estimation based on mediapipe and LSTM（[github]() [demo](https://www.bilibili.com/video/BV1CN411A7yF/?spm_id_from=333.999.0.0)）
 - 
 
 
 #### 📞Contact information
 
-- 🐧QQ Mail:293352448@qq.com
-- ⚪Cnblogns:[☞click me](https://www.cnblogs.com/xielaoban/)
-- 📺Bilibili:[☞click me](https://space.bilibili.com/615998733)
-- 🐒CSDN：[☞click me](https://blog.csdn.net/weixin_59605625)
+- 🐧QQ Mail: 293352448@qq.com
+- ⚪Cnblogns: [☞click me](https://www.cnblogs.com/xielaoban/)
+- 📺Bilibili: [☞click me](https://space.bilibili.com/615998733)
+- 🐒CSDN: [☞click me](https://blog.csdn.net/weixin_59605625)
 
 #### 🐱Github summary
 <!-- 参考程序员鱼皮的github中的样式 -->
