@@ -12,7 +12,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count
 
 #### 🐟Self-introduction
 
-- At present, I am a sophomore junior college student in Jinhua Vocational and Technical College, majoring in the application of artificial intelligence technology. I joined the college's software development studio in the direction of artificial intelligence. I learned the basics of artificial intelligence independently in my freshman year, and participated in the studio in my sophomore year. Projects, participation in various subject competitions, the main goal at this stage is to successfully upgrade to further study.
+- At present, I am a sophomore junior college student in Jinhua Vocational and Technical College, majoring in the application of artificial intelligence technology. 
+- I joined the college's software development studio in the direction of artificial intelligence. I learned the basics of artificial intelligence independently in my freshman year.
+- Participated in the project development of the studio in the sophomore year and participated in various discipline competitions.
+- And working for teachers for free. I'm free labor.😢
+- Now,The most important goal at this stage is to successfully upgrade to the university for further study.
 
 #### ✍Personal experience
 
