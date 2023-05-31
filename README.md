@@ -12,4 +12,6 @@ Welcome to my Github page! I am crabBoss
 You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count.svg) visitor. Thanks you!
 
 
+💻 Programming languages and tools:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrabBoss-lab&layout=compact&theme=tokyonight)
