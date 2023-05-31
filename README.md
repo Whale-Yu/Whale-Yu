@@ -10,3 +10,6 @@ Welcome to my Github page! I am crabBoss
 
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count.svg) visitor. Thanks you!
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrabBoss-labe&layout=compact&theme=tokyonight)
