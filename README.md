@@ -6,8 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](im.junyu.yu@gmail.com)
 
 
-Welcome to my Github page! I am crabBoss
-
+Welcome to my Github page! I am Mr. Crab. Currently studying at Jinhua Vocational and Technical College, majoring in the application of artificial intelligence technology.
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count.svg) visitor. Thanks you!
 
