@@ -12,7 +12,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count
 
 <!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
  -->
- <img align="right" alt="img" src="https://github.com/CrabBoss-lab/CrabBoss-lab/blob/main/wallhaven-l8kder.png" width="50%" height="auto" />
+ <img align="right" alt="img" src="https://github.com/CrabBoss-lab/CrabBoss-lab/blob/main/wallhaven-yxg9zk.png" width="50%" height="auto" />
 
 
 
