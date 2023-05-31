@@ -6,9 +6,12 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](im.junyu.yu@gmail.com)
 
 
-Welcome to my Github page! I am Mr. Crab. Currently studying at Jinhua Polytechnic, majoring in the application of artificial intelligence technology.
+Welcome to my Github page! I am Mr. Crab.
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count.svg) visitor. Thanks you!
+You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count.svg) visitor. Thanks you! Thank you for you support! I love everbody!😙
+
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+
 
 
 #### 🐟Self-introduction
