@@ -41,6 +41,19 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count
 - ... wait, I won't give you an example.
 
 
+#### 🌱 Things I am currently working on:
+- Junior college graduate, promoted to undergraduate success
+- Keep learning the AI neighborhood knowledge
+- Do a good job in graduation design and thesis
+
+
+#### 💪 Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 4 hours a day
+- Exercising 3 days a week
+- Improving my CV with some education apart from university
+
+
 #### 📞Contact information
 
 - 🐧QQ Mail: 293352448@qq.com
