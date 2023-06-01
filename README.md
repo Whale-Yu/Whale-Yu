@@ -41,9 +41,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count
 #### 👷Project experience
 
 - Fall detection for the elderly based on yolov5s and deploy to jeston nano2([github](),[demo]())
+
 - Garbage classification system based on convolutional neural network([github](https://github.com/CrabBoss-lab/garbage-sorting-pytorch),[demo]())
+
 - Motion-sensing interaction - Hand pose estimation based on mediapipe and LSTM（[github](https://github.com/CrabBoss-lab/HandPoseEstimationBasedOnMediapipeAndLstm),[demo](https://www.bilibili.com/video/BV1CN411A7yF/?spm_id_from=333.999.0.0)）
-- Action recognition based on meadipipe and machine-learning([github](),[demo]())
+
+- Action recognition based on meadipipe and machine-learning([github](https://github.com/CrabBoss-lab/ActionRecognitionBasedOnMeadipipeAndML),[demo](https://giphy.com/gifs/ybq7mgq5hAstj9Fqaz))
+
 - Chest X-ray recognition and prediction system for COVID-19 based on resnet18([github](),[demo](https://www.bilibili.com/video/BV1Gx4y1P74B/?spm_id_from=333.999.0.0))
 - ... wait, I won't give you an example.
 
