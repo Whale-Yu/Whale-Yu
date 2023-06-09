@@ -8,7 +8,7 @@
 
 Welcome to my Github page! I am Mr. Crab.
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count.svg) visitor. Thanks you! Thank you for you support! I love everbody!😙
+You are my ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count.svg) visitor. Thanks you! Your star is my greatest honor!😙
 
 <!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
  -->
