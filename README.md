@@ -10,7 +10,7 @@
 欢迎来到我的Github页面!我是螃蟹先生。
 
 
-你是我的 ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count.svg) 访客。谢谢你!你的star是我最大的荣幸!😙
+你是我的第 ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count.svg) 个访客，谢谢你！你的star是我最大的荣幸!😙
 
 <!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
  -->
