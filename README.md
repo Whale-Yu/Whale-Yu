@@ -14,7 +14,7 @@
 
 <!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
  -->
- <img align="right" alt="img" src="cover.png" width="50%" height="auto" />
+ <img align="right" alt="img" src="Snipaste_2023-12-02_10-54-55.jpg" width="50%" height="auto" />
 
 
 
