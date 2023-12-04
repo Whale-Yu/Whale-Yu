@@ -42,15 +42,15 @@
 
 ### 👷项目经历
 
-- 基于yolov5s的老年人跌倒检测并部署到jetson nano 2([项目代码](https://github.com/CrabBoss-lab/fall-detection)，[演示视频](https://giphy.com/gifs/1TPTI5XoWL3frxmWbq/fullscreen))
+- 基于yolov5s的老年人跌倒检测并部署到jetson nano 2([项目代码](https://github.com/CrabBoss-lab/fall-detection)，[点我可查看演示视频](https://watch.wave.video/yDDPBm31TQtUWY5j))
 
-- 基于卷积神经网络的垃圾分类系统([项目代码](https://github.com/CrabBoss-lab/garbage-sorting-pytorch)，[演示视频1](https://giphy.com/gifs/5vps3Hcyt2udb7awfc/fullscreen)，[演示视频2](https://giphy.com/gifs/QRskytpzWcfU68Igu9/fullscreen))
+- 基于卷积神经网络的垃圾分类系统([项目代码](https://github.com/CrabBoss-lab/garbage-sorting-pytorch)，[点我可查看演示视频1](https://watch.wave.video/yCuWv2MZCPmcQ2Xb)，[点我可查看演示视频2](https://watch.wave.video/dZfyhf9hl3za08Qz))
 
-- 体感交互——基于mediapipe和LSTM的手势估计（[项目代码](https://github.com/CrabBoss-lab/HandPoseEstimationBasedOnMediapipeAndLstm)，[演示视频](https://www.bilibili.com/video/BV1CN411A7yF/?spm_id_from=333.999.0.0)）
+- 体感交互——基于mediapipe和LSTM的手势估计（[项目代码](https://github.com/CrabBoss-lab/HandPoseEstimationBasedOnMediapipeAndLstm)，[点我可查看演示视频](https://watch.wave.video/32jfVig1l6dt5bkK)）
 
-- 基于 medipipe 和机器学习的动作识别([项目代码](https://github.com/CrabBoss-lab/ActionRecognitionBasedOnMeadipipeAndML)，[演示视频](https://i.giphy.com/media/ybq7mgq5hAstj9Fqaz/giphy.webp))
+- 基于 medipipe 和机器学习的动作识别([项目代码](https://github.com/CrabBoss-lab/ActionRecognitionBasedOnMeadipipeAndML)，[点我可查看演示视频](https://watch.wave.video/vHj0dLVwYRohm5yQ))
 
-- 基于resnet18的COVID-19胸部X光识别与预测系统([项目代码]()，[演示视频](https://www.bilibili.com/video/BV1Gx4y1P74B/?spm_id_from=333.999.0.0))
+- 基于resnet18的COVID-19胸部X光识别与预测系统([项目代码](https://github.com/CrabBoss-lab/Covid19-ChestX-ray-prediction)，[点我可查看演示视频](https://watch.wave.video/n3CCzEGgxuWXPnFl))
 - ...等等，我不会给你举个例子。
 
 
