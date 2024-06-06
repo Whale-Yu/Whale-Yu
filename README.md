@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](im.junyu.yu@gmail.com)
 
 
-欢迎来到我的Github页面！我是螃蟹先生。
+欢迎来到我的Github页面！
 
 
 你是我的第 ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count.svg) 个访客，谢谢你！你的star是我最大的荣幸!😙
@@ -23,9 +23,9 @@
 
 - 目前，我是[金华职业技术学院](https://www.jhc.cn/main.htm)[信息工程学院](https://info.jhc.cn/main.htm)的一名大三学生，专业是人工智能技术应用。
 - 我加入了学院的软件开发工作室，方向是人工智能。 
-- 我在大一的时候就独立学习了人工智能的基础知识。[点我📕](https://docs.qq.com/sheet/DSkRobnVTUGFXYnlq?tab=BB08J2)
-- 大二时我参与了工作室的项目开发，并参加了各种学科竞赛。
-- 现在，已经顺利专升本上岸。
+- 大一，独立学习了人工智能的基础知识。[点我📕](https://docs.qq.com/sheet/DSkRobnVTUGFXYnlq?tab=BB08J2)
+- 大二，参与了工作室的项目开发，并参加了各种学科竞赛。
+- 现在，已经顺利专升本上岸[湖州学院·计科](https://www.zjhzu.edu.cn/)。
 
 ### 🌱 我目前正在做的事情：
 - 不断学习AI知识
@@ -36,7 +36,7 @@
 - 早点起床，充分利用这一天
 - 每天至少编码 4 小时
 - 每周锻炼 3 天
-- 通过大学以外的一些教育来完善我的简历
+- 通过大学以外的一些教育来完善自己
 
 
 ### 👷项目经历
