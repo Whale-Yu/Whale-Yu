@@ -1,14 +1,11 @@
-## 嗨，大家好 👋 
+## Hi，大家好！欢迎来到我的Github页面！
 
-## 我是余俊瑜，我的花名是蟹老板!
+## 我是Whale Yu，我的花名是蟹老板!
 
 
 <!-- https://shields.io/ -->
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CrabBoss-lab)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](im.junyu.yu@gmail.com)
-
-
-欢迎来到我的Github页面！
 
 
 你是我的第 ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count.svg) 个访客，谢谢你！你的star是我最大的荣幸!😙
@@ -17,24 +14,32 @@
  -->
  <img align="right" alt="img" src="yjy2.png" width="50%" height="auto" />
 
+### 🐋个人简介
 
+Whale Yu，金华职业技术学院，人工智能技术应用专业，软件开发工作室人工智能方向核心成员。连续4个学期智育排名第一，制定软开工作室人工智能方向学习路径，带领成员完成50余个项目，持软件著作权9个，获得：
+- 第十二届“中国软件杯”大学生软件设计大赛全国总决赛一等奖
+- 一带一路暨金砖国家技能发展与技术创新大赛全国一等奖
+- 浙江省大学生职业规划大赛金奖
+- 第十四届蓝桥杯浙江赛区三等奖
 
-### 🐟自我介绍
+等10余个省级以上奖项。
 
-- 目前，我是[金华职业技术学院](https://www.jhc.cn/main.htm)[信息工程学院](https://info.jhc.cn/main.htm)的一名大三学生，专业是人工智能技术应用。
-- 我加入了学院的软件开发工作室，方向是人工智能。 
-- 大一，独立学习了人工智能的基础知识。[点我📕](https://docs.qq.com/sheet/DSkRobnVTUGFXYnlq?tab=BB08J2)
-- 大二，参与了工作室的项目开发，并参加了各种学科竞赛。
+### 🐟个人经历
+
+- 目前，我是[金职院](https://www.jhc.cn/main.htm)·[信息学院](https://info.jhc.cn/main.htm)的一名大三学生；
+- 大一，加入软件开发工作室，自学人工智能，并制定[学习路线](https://docs.qq.com/sheet/DSkRobnVTUGFXYnlq?tab=BB08J2);
+- 大二，参加项目开发、各种学科竞赛;
 - 现在，已经顺利专升本上岸[湖州学院·计科](https://www.zjhzu.edu.cn/)。
 
 ### 🌱 我目前正在做的事情：
 - 不断学习AI知识
-
+- 个人网站搭建，集成个人项目
+- 个人公众号运营，输出优质内容
 
 
 ### 💪 我挑战自己的事情：
 - 早点起床，充分利用这一天
-- 每天至少编码 4 小时
+- 每周至少编码 8 小时
 - 每周锻炼 3 天
 - 通过大学以外的一些教育来完善自己
 
