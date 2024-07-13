@@ -26,10 +26,11 @@ Whale Yu，金华职业技术学院，人工智能技术应用专业，软件开
 
 ### 🐟个人经历
 
-- 目前，我是[金职院](https://www.jhc.cn/main.htm)·[信息学院](https://info.jhc.cn/main.htm)的一名大三学生；
+- 我是[金职院](https://www.jhc.cn/main.htm)·[信息学院](https://info.jhc.cn/main.htm)的一名大三学生；
 - 大一，加入软件开发工作室，自学人工智能，并制定[学习路线](https://docs.qq.com/sheet/DSkRobnVTUGFXYnlq?tab=BB08J2);
 - 大二，参加项目开发、各种学科竞赛;
-- 现在，已经顺利专升本上岸[湖州学院·计科](https://www.zjhzu.edu.cn/)。
+- 专升本上岸[湖州学院·计科](https://www.zjhzu.edu.cn/)。
+- 浙江云澎科技有限公司——算法实习；
 
 ### 🌱 我目前正在做的事情：
 - 不断学习AI知识
