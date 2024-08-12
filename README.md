@@ -18,7 +18,7 @@
 
 Whale Yu，金华职业技术学院，人工智能技术应用专业，软件开发工作室人工智能方向核心成员。连续4个学期智育排名第一，制定软开工作室人工智能方向学习路径，带领成员完成50余个项目，持软件著作权9个，荣获：
 - 第十二届“中国软件杯”大学生软件设计大赛[全国总决赛一等奖](https://www.cnsoftbei.com/content-1-878-1.html)、[东部赛区一等奖](https://www.cnsoftbei.com/content-1-883-1.html)
-- 一带一路暨金砖国家技能发展与技术创新大赛-视频感知技术赛项-[全国一等奖]（http://inwsa.org/#/view/1591）
+- 一带一路暨金砖国家技能发展与技术创新大赛-视频感知技术赛项-[全国一等奖](http://inwsa.org/#/view/1591)
 - 浙江省大学生职业规划大赛-就业赛道产品研发-金奖（[点我呀](https://mp.weixin.qq.com/s/MZIH3a3ybZtURTfE29Z1HA)、[再点呀](https://www.jhc.edu.cn/2023/1229/c4548a163905/page.htm)、[官方直播](https://wx.vzan.com/live/page/404166740?shauid=BSV6E-LSptbM-2L_7RtO8w**&vprid=0&sharetstamp=1703634607203)）
 - 第十四届蓝桥杯浙江赛区三等奖
 
