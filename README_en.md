@@ -1,4 +1,4 @@
-## Hi, everyone! Welcome to my GitHub page!  
+## Hi, everyone! Welcome to my GitHub page!  [中文版](https://github.com/Whale-Yu/Whale-Yu/edit/main/README_zh.md)
 
 ## I am Whale-Yu, but you can also call me Crab Boss!  
 
