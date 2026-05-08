@@ -1,76 +1,102 @@
-## Hi，大家好！欢迎来到我的Github页面！
+# 👋 Hi, I'm Whale-Yu
 
-## 我是Whale-Yu，当然，你也可以叫我蟹老板!
+## Computer Vision Engineer | OpenMMLab & YOLO Practitioner | AI Full-Stack Developer
 
+我是 Whale-Yu，目前专注于计算机视觉与工业 AI 工程化落地。
 
-<!-- https://shields.io/ -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CrabBoss-lab)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](im.junyu.yu@gmail.com)
+主要方向包括目标检测、OpenMMLab、YOLO 系列算法开发与部署优化。
 
+具备完整 AI 项目开发、训练、量化、部署及交付经验，
+参与过无人机巡检、智慧食堂、工业仪表等多个真实项目。
 
-你是我的第 ![Visitor Count](https://profile-counter.glitch.me/CrabBoss-lab/count.svg) 个访客，谢谢你！你的star是我最大的荣幸!😙
+---
 
-<!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
- -->
- <img align="right" alt="img" src="yjy2.png" width="50%" height="auto" />
+## 🛠 Tech Stack
 
-### 🐋个人简介
+| Direction          | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 👁 Computer Vision | ![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge) ![OpenMMLab](https://img.shields.io/badge/OpenMMLab-FF6F00?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge)![RKNN](https://img.shields.io/badge/RKNN-0091FF?style=for-the-badge) |
+| ⚙ Backend          | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)                                                                                                                                                                                                                                |
+| 🌐 Frontend        | ![Vue3](https://img.shields.io/badge/Vue3-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)                                                                                                                                                                                                 |
+| 🚀 DevOps          | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)                                                                                                                                                                                                                                                                                                                                           |
+| 🗄 Database        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)                                                                                                                                                                                                                                                                                                                                           |
+| 🧰 Tools           | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Navicat](https://img.shields.io/badge/Navicat-7F52FF?style=for-the-badge)  |
 
-Whale Yu，金华职业技术学院，人工智能技术应用专业，软件开发工作室人工智能方向核心成员。连续4个学期智育排名第一，制定软开工作室人工智能方向学习路径，带领成员完成50余个项目，持软件著作权9个，荣获：
-- 第十二届“中国软件杯”大学生软件设计大赛[全国总决赛一等奖](https://www.cnsoftbei.com/content-1-878-1.html)、[东部赛区一等奖](https://www.cnsoftbei.com/content-1-883-1.html)
-- 一带一路暨金砖国家技能发展与技术创新大赛-视频感知技术赛项-[全国一等奖](http://inwsa.org/#/view/1591)
-- 浙江省大学生职业规划大赛-就业赛道产品研发-金奖（[点我呀](https://mp.weixin.qq.com/s/MZIH3a3ybZtURTfE29Z1HA)、[再点呀](https://www.jhc.edu.cn/2023/1229/c4548a163905/page.htm)、[官方直播](https://wx.vzan.com/live/page/404166740?shauid=BSV6E-LSptbM-2L_7RtO8w**&vprid=0&sharetstamp=1703634607203)）
-- 第十四届蓝桥杯浙江赛区三等奖
+---
 
-等10余个省级以上奖项。
+## 🏆 Honors & Awards
 
-### 🐟个人经历
-- 我是[金职院](https://www.jhc.cn/main.htm)·[信息学院](https://info.jhc.cn/main.htm)的一名大三学生；
-- 大一，加入软件开发工作室，自学人工智能，并制定[学习路线](https://docs.qq.com/sheet/DSkRobnVTUGFXYnlq?tab=BB08J2);
-- 大二，参加项目开发、各种学科竞赛;
-- 专升本上岸[湖州学院·计科](https://www.zjhzu.edu.cn/)。
-- 浙江云澎科技有限公司——算法实习；
+- 🥇 第十二届“中国软件杯”大学生软件设计大赛 全国一等奖、东部赛区一等奖
+- 🥇 金砖国家技能发展与技术创新大赛 全国一等奖
+- 🥇 第二届教育信息技术应用创新大赛 全国一等奖、华东赛区二等奖
+- 🥇 浙江省大学生职业规划大赛 金奖
+- 🥉 华为 ICT 大赛浙江省三等奖
+- 🥉 蓝桥杯浙江赛区三等奖
 
-### 🌱 我目前正在做的事情：
-- 不断学习AI知识
-- 小鱼同学桌面聊天机器人项目
-- 个人网站搭建，集成个人项目
-- 个人公众号运营，输出优质内容
+📌 累计获得 10+ 省级以上奖项
+📌 持有 12 项软件著作权
+📌 GitHub 开源 45+ 仓库
 
-### 💪 我挑战自己的事情：
-- 早点起床，充分利用这一天
-- 每周至少编码 7 小时
-- 每天跑步至少5km
-- 通过大学以外的一些教育来完善自己
+---
 
+# 💼 Internship Experience
 
-### 👷项目经历
+## 🚁 杭州天客信息技术有限公司 ｜ 算法工程师（无人机视觉方向）
 
-- 基于yolov5s的老年人跌倒检测并部署到jetson nano 2([项目代码](https://github.com/CrabBoss-lab/fall-detection)，[点我可查看演示视频](https://watch.wave.video/yDDPBm31TQtUWY5j))
+- 基于 MMYOLO 的农田薄膜检测模型开发
+- 重构 sky-jarvis 识别模块与巡检报告系统
+- 完成 Docker 化部署与 Linux 环境交付
+- 参与人流统计、卫星锅检测等预研项目
 
-- 基于卷积神经网络的垃圾分类系统([项目代码](https://github.com/CrabBoss-lab/garbage-sorting-pytorch)，[点我可查看演示视频1](https://watch.wave.video/yCuWv2MZCPmcQ2Xb)，[点我可查看演示视频2](https://watch.wave.video/dZfyhf9hl3za08Qz))
+## 🍱 浙江澎城智能科技有限公司 ｜ 算法工程师
 
-- 体感交互——基于mediapipe和LSTM的手势估计（[项目代码](https://github.com/CrabBoss-lab/HandPoseEstimationBasedOnMediapipeAndLstm)，[点我可查看演示视频](https://watch.wave.video/32jfVig1l6dt5bkK)）
+- 参与 12 个智慧食堂 AI 视觉识别项目 ，菜品/餐盘识别准确率提升至 98%+
+- 自主构建近 200 类餐盘数据集，实现 SwinTransformer + Faiss 检索方案
 
-- 基于 medipipe 和机器学习的动作识别([项目代码](https://github.com/CrabBoss-lab/ActionRecognitionBasedOnMeadipipeAndML)，[点我可查看演示视频](https://watch.wave.video/vHj0dLVwYRohm5yQ))
+---
 
-- 基于resnet18的COVID-19胸部X光识别与预测系统([项目代码](https://github.com/CrabBoss-lab/Covid19-ChestX-ray-prediction)，[点我可查看演示视频](https://watch.wave.video/n3CCzEGgxuWXPnFl))
-- ...等等，我不会给你举个例子。
+# 🔥 Featured Projects
 
+## 📟 Intelligent Meter Reading System
 
-### 📞联系信息
+工业指针式仪表智能读数与预警系统
 
-- 🐧QQ Mail: 2933582448@qq.com
-- ⚪Cnblogns: [☞点我](https://www.cnblogs.com/xielaoban/)
-- 📺Bilibili: [☞点我](https://space.bilibili.com/615998733)
-- 🐒CSDN: [☞点我](https://blog.csdn.net/weixin_59605625)
+`Python` `YOLOv8` `YOLOv8-pose` `FastAPI` `Vue3` `TS` `Element Plus` `SQLite`
 
-### 🐱Github总结
-<!-- 参考程序员鱼皮的github中的样式 -->
-<!-- <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=liyupi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liyupi&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
+### Features
 
-<!-- ![CrabBoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrabBoss-lab&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whale-Yu&layout=compact&theme=tokyonight) -->
+- YOLO + Pose 双阶段仪表识别
+- RTSP 多路视频流接入
+- WebSocket 实时推送
+- TensorRT FP16 量化加速
+- 工业监控大屏可视化
 
- 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Whale-Yu&hide_title=true&hide_border=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whale-Yu&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+🔗 Demo Video： <https://www.bilibili.com/video/BV1w1omB7ELA>
+
+---
+
+## 🍱 Smart Canteen AI Vision System
+
+智慧食堂 AI 视觉结算系统
+
+### Features
+
+- 菜品/餐盘识别
+- 增量学习优化
+- Linux + Docker 部署
+- 多项目算法交付
+
+---
+
+# 📈 GitHub 
+
+<img align="" height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Whale-Yu&theme=radical" /><img align="" height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Whale-Yu&theme=radical" /><img align="" height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Whale-Yu&theme=radical" />
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Whale-Yu&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Whale-Yu&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Whale-Yu&theme=radical) -->
+
+---
+
+> Stay hungry, stay foolish.
+
