@@ -9,7 +9,6 @@
 具备完整 AI 项目开发、训练、量化、部署及交付经验，
 参与过无人机巡检、智慧食堂、工业仪表等多个真实项目。
 
----
 
 ## 🛠 Tech Stack
 
@@ -22,7 +21,7 @@
 | 🗄 Database        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)                                                                                                                                                                                                                                                                                                                                           |
 | 🧰 Tools           | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Navicat](https://img.shields.io/badge/Navicat-7F52FF?style=for-the-badge)  |
 
----
+
 
 <!---
 ## 🏆 Honors & Awards
@@ -75,7 +74,7 @@
 
 🔗 Demo Video： <https://www.bilibili.com/video/BV1w1omB7ELA>
 
----
+
 
 ## 🍱 Smart Canteen AI Vision System
 
@@ -88,7 +87,7 @@
 - Linux + Docker 部署
 - 多项目算法交付
 
----
+
 -->
 
 <!--
@@ -100,7 +99,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Whale-Yu&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Whale-Yu&theme=radical) 
 -->
----
+
 
 > Stay hungry, stay foolish.
 
