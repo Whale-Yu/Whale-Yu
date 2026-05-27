@@ -55,6 +55,7 @@
 
 ---
 
+<!---
 # 🔥 Featured Projects
 
 ## 📟 Intelligent Meter Reading System
@@ -87,6 +88,7 @@
 - 多项目算法交付
 
 ---
+-->
 
 # 📈 GitHub 
 
