@@ -24,6 +24,7 @@
 
 ---
 
+<!---
 ## 🏆 Honors & Awards
 
 - 🥇 第十二届“中国软件杯”大学生软件设计大赛 全国一等奖、东部赛区一等奖
@@ -36,24 +37,24 @@
 📌 累计获得 10+ 省级以上奖项
 📌 持有 12 项软件著作权
 📌 GitHub 开源 45+ 仓库
+-->
 
----
-
+<!---
 # 💼 Internship Experience
 
 ## 🚁 杭州天客信息技术有限公司 ｜ 算法工程师（无人机视觉方向）
 
-<!---- 基于 MMYOLO 的农田薄膜检测模型开发
+基于 MMYOLO 的农田薄膜检测模型开发
 - 重构 sky-jarvis 识别模块与巡检报告系统
 - 完成 Docker 化部署与 Linux 环境交付
-- 参与人流统计、卫星锅检测等预研项目-->
+- 参与人流统计、卫星锅检测等预研项目
 
 ## 🍱 浙江澎城智能科技有限公司 ｜ 算法工程师
 
-<!--- 参与 12 个智慧食堂 AI 视觉识别项目 ，菜品/餐盘识别准确率提升至 98%+
-- 自主构建近 200 类餐盘数据集，实现 SwinTransformer + Faiss 检索方案-->
+参与 12 个智慧食堂 AI 视觉识别项目 ，菜品/餐盘识别准确率提升至 98%+
+- 自主构建近 200 类餐盘数据集，实现 SwinTransformer + Faiss 检索方案
 
----
+-->
 
 <!---
 # 🔥 Featured Projects
@@ -90,14 +91,15 @@
 ---
 -->
 
+<!--
 # 📈 GitHub 
 
-<!--<img align="" height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Whale-Yu&theme=radical" /><img align="" height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Whale-Yu&theme=radical" /><img align="" height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Whale-Yu&theme=radical" />-->
+<img align="" height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Whale-Yu&theme=radical" /><img align="" height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Whale-Yu&theme=radical" /><img align="" height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Whale-Yu&theme=radical" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Whale-Yu&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Whale-Yu&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Whale-Yu&theme=radical) 
-
+-->
 ---
 
 > Stay hungry, stay foolish.
