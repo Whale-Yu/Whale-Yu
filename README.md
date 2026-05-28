@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Whale-Yu
 
-## Computer Vision Engineer | OpenMMLab & YOLO Practitioner | AI Full-Stack Developer
+<!---## Computer Vision Engineer | OpenMMLab & YOLO Practitioner | AI Full-Stack Developer--->
 
-我是 Whale-Yu，目前专注于计算机视觉与工业 AI 工程化落地。
+我是 Whale-Yu，目前专注于计算机视觉工程化落地、小程序和Web全栈开发
 
 主要方向包括目标检测、OpenMMLab、YOLO 系列算法开发与部署优化。
 
